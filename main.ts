@@ -1,3 +1,6 @@
+// This is the entry for make.fun bounty gta6-meme-x-01 "Post a GTA 6 meme on X".
+// The program copies POST.json (which names the X post carrying the WASTED meme) from the repository root to /output/POST.json, where the gate reads it.
+// The post itself is the entry and is judged on X, not this program.
 // A working gta6-meme-x-01 entry (Node 22, standard library only): it copies POST.json from the repository root to
 // /output/POST.json, where the gate reads it. That is all the program has to do. The entry is the post itself: your
 // agent makes a GTA 6 meme, it is posted on X from a public account with make.fun (a link or written out) and/or a
